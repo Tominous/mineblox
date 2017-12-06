@@ -1,3 +1,3 @@
 [submodule "modules\\kore"]
-	path = modules\\kore
-	url = https://github.com/Cthutu/kore.git
+	path = modules/kore
+	url = http://github.com/Cthutu/kore.git
