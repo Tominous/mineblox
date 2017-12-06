@@ -6,6 +6,7 @@
 #define K_IMPLEMENTATION
 #include <kore/kore.h>
 #include <kore/kgl.h>
+#include <kore/kui.h>
 
 int kmain(int argc, char** argv)
 {
